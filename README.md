@@ -1,9 +1,25 @@
 # Poonnapop Sansom 683450057-7
+# Poonnapop Sansom 683450057-7
+## Class Diagram
+mermaid
+
 classDiagram
     class Program {
+        +Main()
         +Main(args: string[]): void
     }
 
+    class CoffeeMachine {
+        -int water
+        -int coffee
+        -int milk
+        -int chocolate
+        +CoffeeMachine()
+        +MakeBlackCoffee()
+        +MakeMocha()
+        +MakeLatte()
+        +MakeChocolate()
+        +ShowStock()
     class VendingMachine {
         -coffee: int
         -water: int
@@ -21,5 +37,5 @@ classDiagram
         -CheckStock(co: int, wa: int, mk: int, ckl: int): bool
     }
 
+    Program --> CoffeeMachine
     Program --> VendingMachine : creates / uses
-

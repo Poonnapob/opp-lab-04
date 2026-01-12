@@ -1,0 +1,7 @@
+D:\opp sublect\opp lab 04\opp lab 04\obj\Debug\opp lab 04.csproj.AssemblyReference.cache
+D:\opp sublect\opp lab 04\opp lab 04\obj\Debug\opp lab 04.csproj.CoreCompileInputs.cache
+D:\opp sublect\opp lab 04\opp lab 04\bin\Debug\opp lab 04.exe.config
+D:\opp sublect\opp lab 04\opp lab 04\bin\Debug\opp lab 04.exe
+D:\opp sublect\opp lab 04\opp lab 04\bin\Debug\opp lab 04.pdb
+D:\opp sublect\opp lab 04\opp lab 04\obj\Debug\opp lab 04.exe
+D:\opp sublect\opp lab 04\opp lab 04\obj\Debug\opp lab 04.pdb
